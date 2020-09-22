@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/sp01-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/sp02-itemservice/pom.xml" />
       </list>
     </option>
   </component>
